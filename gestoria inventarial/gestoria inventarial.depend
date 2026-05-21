@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1779335125 source:/home/chaostheroys/Escritorio/Repositorios GitHub/Personal-proyects/gestoria inventarial/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
